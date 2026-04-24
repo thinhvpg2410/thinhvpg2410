@@ -1,47 +1,110 @@
-# Hi 👋, I'm Vu Phan Gia Thinh
+<div align="center">
 
-### Open to internship · Backend, DevOps & Cloud
+# Vu Phan Gia Thinh
 
-*Backend, **cloud** & **CI/CD** — reliable systems, automation, and infrastructure.*
+**DevOps Engineer Intern** · *Ho Chi Minh City*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinhvpg2410" alt="thinhvpg2410" /></a> </p>
+*Software engineering student focused on **cloud** and **DevOps** — hands-on with **AWS (EC2)**, **Docker**, **CI/CD**, and **Linux** operations. I care about secure, reliable, and cost-efficient systems.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/thinhvpg2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thinhvpg2410" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thinhvpg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinhvpg" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/thinhvpg2410">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/thinhvpg/">LinkedIn</a> ·
+  <a href="mailto:thinh.vpg@gmail.com">Email</a>
 </p>
 
-**Email:** [thinh.vpg@gmail.com](mailto:thinh.vpg@gmail.com)
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://www.kernel.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+- 🔭 **I’m currently working on** — [**Loza Chat**](https://github.com/thinhvpg2410/loza-chat): full-stack real-time messaging (NestJS, Socket.IO, Next.js, Expo), Docker, GitHub Actions, and path to **AWS EC2** deployment.
+- 🌱 **I’m currently learning** — production-style **monitoring**, **automation**, **cloud security**, and shipping features with strong **on-call-friendly** practices (health checks, logs, rollback-friendly deploys).
+- 👯 **I’m looking to collaborate on** — DevOps/infra side projects, **API + Docker Compose** templates, and student open source with clear **CI** and docs.
+- 🤔 **I’m looking for help with** — advanced **Kubernetes** (when the workload justifies it), org-scale **SRE** practices, and **system design** for high traffic — I’m here to learn from people who run production.
+- 💬 **Ask me about** — **NestJS**, **Docker** / **Compose**, **GitHub Actions**, **Nginx** reverse proxy, **AWS EC2** + **IAM** basics, **Ubuntu** hardening (SSH, UFW), or **Prisma** + **PostgreSQL** performance.
+- 📫 **How to reach me** — [thinh.vpg@gmail.com](mailto:thinh.vpg@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thinhvpg/) · `0919 475 444`
+- 😄 **Pronouns** — he/him
+- ⚡ **Fun fact** — I like when `docker compose up` and a **GitHub Action** mean nobody has to “deploy from a laptop on Wi‑Fi.”
 
 ---
 
 ## About
 
-I focus on **backend engineering**: APIs, data handling, and service integration, and I am building **DevOps** (build/deploy, pipelines, automation) and **cloud** (deployment, operations, observability) skills. My public repos are **full-stack** context; my next step is to go deeper on the server, infrastructure, and delivery. I am growing toward **ops-minded backend** and **platform reliability** work.
+**Software engineering** student (**Industrial University of Ho Chi Minh City**, Aug 2021 – present) completing coursework and **preparing for internship and graduation**. I have **hands-on experience deploying and operating** applications on **Amazon Web Services (EC2)**, with interest in **cloud operations**, **system administration**, **monitoring**, and **infrastructure reliability** — building systems that are **secure**, **scalable**, and **efficient**.
 
 ---
 
-## Career focus
+## Education
 
-| Area        | What I am building toward |
-|-------------|---------------------------|
-| **Backend** | REST/APIs, business logic, databases, **Node.js** / TypeScript, **Java** / **Spring** |
-| **DevOps**  | **Git**, **CI/CD**, **Docker**, reproducible deploys |
-| **Cloud**   | **AWS** & cloud deploys, environment/IAM basics, scaling, logs & health checks |
+| | |
+|--|--|
+| **School** | **Industrial University of Ho Chi Minh City** — *Software Engineering* |
+| **Period** | August 2021 – Present |
+| **Status** | Completed required coursework; **preparing for internship and graduation** |
 
 ---
 
-## Pinned projects
+## Skills
 
-| Repository | Notes |
-|------------|--------|
-| [**choco-ecomerce**](https://github.com/thinhvpg2410/choco-ecomerce) | TypeScript — APIs, data layer, deploy pipeline (where present) |
-| [**daily-cook**](https://github.com/thinhvpg2410/daily-cook) | TypeScript — server/APIs and integrations |
-| [**ecommerce-react-native-nhom7**](https://github.com/thinhvpg2410/ecommerce-react-native-nhom7) | JS / React Native — client against **backend**; networking and data flow |
+| Area | Stack |
+|------|--------|
+| **Backend** | **NestJS**, **TypeScript**, **REST** APIs, **Prisma**, **PostgreSQL**, **Swagger** |
+| **DevOps & Cloud** | **AWS** (EC2, IAM), **Docker**, **Docker Compose**, **GitHub Actions**, **CI/CD**, **Nginx** |
+| **System** | **Linux** (Ubuntu, SSH, UFW), HTTP/HTTPS, DNS, **monitoring** (logs, CPU, memory) |
+| **Security** | **JWT**, **Google OAuth**, **2FA (TOTP)**, **Helmet**, **CORS**, server **hardening** |
+| **Tools** | **Git**, **Bash**, **Jest**, **Supertest**, **ESLint**, **Prettier** |
+| **AI** | **LLM API** integration, **prompt engineering** |
+| **English** | **Intermediate** (technical reading, basic communication) |
+
+---
+
+## Tech badges
+
+**Core**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**DevOps & cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Also used**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## Featured projects
+
+### [DailyCook](https://github.com/thinhvpg2410/daily-cook) — AI meal planning & nutrition (Sep 2025 – Dec 2025)  
+*Backend Developer & DevOps Engineer*
+
+- **Containerized** services with **Docker**; **multi-service** stacks with **Docker Compose**.
+- **Production on AWS EC2**; **Nginx** as reverse proxy for **HTTPS** and traffic routing.
+- **GitHub Actions** **CI/CD**: lint, test, build, deploy.
+- **Bash** deploy/maintenance scripts; **scheduled DB backups** and **restore** procedures.
+- **Hardened Ubuntu** (SSH, UFW); **IAM**-based access for service credentials.
+- **PostgreSQL** + **16+ indexes** for query performance; **logs** and **server metrics**; alerting for critical issues.
+- **Auth & security:** **JWT**, **Google Sign-In**, **2FA**.  
+*Tech: NestJS, TypeScript, PostgreSQL, Prisma, Docker, Nginx, GitHub Actions, AWS EC2, Ubuntu*
+
+### [Loza Chat](https://github.com/thinhvpg2410/loza-chat) — real-time messaging (Jan 2026 – Present)  
+*Full-stack Developer*
+
+- **Real-time** chat (**Web** + **Mobile**): JWT/OTP, DMs + groups, typing, receipts, **media** uploads; **Socket.IO** + **NestJS** API.
+- **Modular** backend; **REST** + **WebSocket**; docs for local setup and **env** config.
+- **Preparing** **AWS EC2** deployment with **env-based** config and **secret** handling; **Docker**; **GitHub Actions** (lint, test, images, deploy); health checks, logs, **rollback-ready** flow.  
+*Tech: NestJS, PostgreSQL, Prisma, Socket.IO, Next.js, Expo React Native, Docker, AWS EC2, GitHub Actions*
+
+### Other public repos
+
+| Repository | |
+|------------|--|
+| [**choco-ecomerce**](https://github.com/thinhvpg2410/choco-ecomerce) | E-commerce / TypeScript |
+| [**ecommerce-react-native-nhom7**](https://github.com/thinhvpg2410/ecommerce-react-native-nhom7) | React Native client work |
 
 ---
 
@@ -55,10 +118,14 @@ I focus on **backend engineering**: APIs, data handling, and service integration
 
 ## Open to
 
-**Internship** or **mentorship** in **Backend, DevOps, and Cloud** — I learn quickly, work well with clear scope, and care about documentation and automation.
+**DevOps / platform / SRE-leaning internship** and roles where I can grow in **automation**, **reliability**, and **cloud operations** — I value clear tasks, good **Git** hygiene, and **documentation** that helps the next person on call.
 
-**Contact:** [thinh.vpg@gmail.com](mailto:thinh.vpg@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thinhvpg/) · or open an **issue** on a repository.
+**Contact:** [thinh.vpg@gmail.com](mailto:thinh.vpg@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thinhvpg/) · **Phone:** +84 `919` `475` `444` *(Vietnam)*
 
 ---
 
+<div align="center">
+
 *Thanks for visiting.*
+
+</div>
